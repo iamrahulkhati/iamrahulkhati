@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamrahulkhati
-- 👀 I’m interested in earning money
+- 👀 I’m interested in earning learning and increasing my knowledge base(As well as bank balance)
 - 🌱 I’m currently learning Devops Technologies
-- 💞️ I’m looking to collaborate on evrything that will help me learn
+- 💞️ I’m looking to collaborate on everything that will help me learn
 - 📫 How to reach me just drop a mail at rahulkhati88@gmail.com
 
 <!---
